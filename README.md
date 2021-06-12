@@ -7,13 +7,12 @@ array e objeto. E com todas as informações saindo do nosso também criado banc
 * Na atividade anterior há uma explicação sobre os meios que usei para fazer a atividade, o que também usei 
 nesse projeto, por isso, não farei uma explicação sobre eles.
 
-![Alt Test]
-(https://media.tenor.com/images/b98e97acd6477c638ac11464da02d75b/tenor.gif)
+
 
 * O que eu gostaria de expor nesse momento é um misto de satisfação, medo, felicidade, frustração...
 Eu sabia que ao longo do curso seria desafiada de várias maneiras. Mas, logo na quinta aula já começamos 
 com um projeto de certa complexidade. Ah, Aline, mas é fácil. Eu imagino que seja... Daqui a um tempo,
-vou olhar pra esse código e achá-lo feio, ver mil outras formas de fazê-lo, talvez até eu desdenhe dele. Mas, esse dia não é hoje :satisfield: 
+vou olhar pra esse código e achá-lo feio, ver mil outras formas de fazê-lo, talvez até eu desdenhe dele. Mas, esse dia não é hoje :satisfied: 
 
 * A cada linha de código vinha uma certeza de que estavámos dando mais um passo em direção 
 ao tão sonhado *SIM*. A tão sonhada transição de carreira. A tão sonhada mudança!
